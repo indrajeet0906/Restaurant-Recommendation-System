@@ -1,0 +1,3 @@
+Type: Machine Learning, Web App
+
+Technologies: Python, Scikit-learn, Streamlit, Pandas
